@@ -22,6 +22,8 @@
 ### Code Example
 
 ```java
+package week2;
+
 import java.util.ArrayList;
 
 public class DifferenceArraysArrayLists {
@@ -74,3 +76,4 @@ public class DifferenceArraysArrayLists {
         System.out.println("\nSize of ArrayList after removal: " + arrayList.size());
     }
 }
+
